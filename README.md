@@ -11,7 +11,7 @@
 <div align = "center">
 <img width="800" alt="Screenshot 2024-09-14 at 12 58 59 PM" src="https://github.com/user-attachments/assets/ea7f4654-6dbe-4adf-9e70-3d7db230c6b1">
   
-  Check out the [project files](/AlanoudAlsalem/CMOS%20Full%20Adder%20Files/) in my personal repository.
+  Check out the [project files](/CMOS%20Full%20Adder%20Files/) in my personal repository.
 </div>
 </br>
 
