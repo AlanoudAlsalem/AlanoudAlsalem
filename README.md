@@ -11,7 +11,7 @@
 <div align = "center">
 <img width="800" alt="Full Adder Layout" src="https://github.com/user-attachments/assets/ea7f4654-6dbe-4adf-9e70-3d7db230c6b1">
   
-  Check out the [project files](https://github.com/AlanoudAlsalem/CMOSFullAdder)
+  Check out the [project repository](https://github.com/AlanoudAlsalem/CMOSFullAdder)
 </div>
 </br>
 
