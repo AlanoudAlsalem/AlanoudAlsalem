@@ -30,4 +30,4 @@ This project involved designing and successfully simulating a full adder circuit
 
 The DRC, LVS, and LPE were implemented to ensure proper functionality. 
 
-The full adder layout, schematic, and cdl files are available. The smaller logic elements such as the XOR, NAND, and OR gate layout and schematic folders are also available. 
+The full adder layout, schematic, and cdl files are available.
