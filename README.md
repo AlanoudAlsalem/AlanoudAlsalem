@@ -6,27 +6,33 @@
 🏂 Learning more about AI and ML! <br/>
 
 ## Some of my projects
-
 ### PIC16F877A-Based Automated Hydroponic Microgreens Environment 
+<div align = "center">
+    
 | <img src="https://github.com/user-attachments/assets/bb60c1d8-d655-4d21-8515-5f9738e1a0f1" width="400" height="250"> | <img src="https://github.com/user-attachments/assets/e5d765a7-bee7-4c02-a20f-624fe94de983" width="300" height="250"> | <img src="https://github.com/user-attachments/assets/128544d7-c90b-4a3f-84ed-0702945e7489" width="400" height="250"> |
 |:----------------------:|:----------------------:|:----------------------:|
-<div align = "center">
-    Check out the [project repository](github.com/AlanoudAlsalem/Hydroponic_Embedded_System)
+</br>
+
+Check out the [project repository](https://github.com/AlanoudAlsalem/Hydroponic_Embedded_System)
+
 </div>
 
 
 ### 5-Stage Pipelined RISC-V Processor
 <div align = "center">
 <img width="1000" alt="CPU Block Diagram" src="https://github.com/user-attachments/assets/8efaa299-8ff9-49bf-898f-19ac8c5c86a7">
-  Check out the [project repository](github.com/AlanoudAlsalem/RISCV-Processor)
+
+Check out the [project repository](https://github.com/AlanoudAlsalem/RISCV-Processor)
+
 </div>
+
 
 
 ### Full Adder CMOS Layout Design
 <div align = "center">
 <img width="800" alt="Full Adder Layout" src="https://github.com/user-attachments/assets/ea7f4654-6dbe-4adf-9e70-3d7db230c6b1">
   
-  Check out the [project repository](github.com/AlanoudAlsalem/CMOSFullAdder)
+  Check out the [project repository](https://github.com/AlanoudAlsalem/CMOSFullAdder)
 </div>
 </br>
 
