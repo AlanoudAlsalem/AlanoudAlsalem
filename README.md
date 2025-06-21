@@ -6,6 +6,18 @@
 🏂 Learning more about AI and ML! <br/>
 
 ## Some of my projects
+### A Comparaison of ML Models for Breast Cancer Diagnosis Using the WDBC Dataset
+
+<div align="center">
+<img width="400" alt="CPU Block Diagram" src="https://github.com/user-attachments/assets/5aa273f9-ad2c-4b95-8ba9-56a96081ecaa">
+<img width="400" alt="CPU Block Diagram" src="https://github.com/user-attachments/assets/832157c2-e0a3-4859-8ebf-e8994aebc6d7">
+
+Check out the [project repository](https://github.com/AlanoudAlsalem/WDBC_ML_Classification)
+
+</div>
+
+
+
 ### PIC16F877A-Based Automated Hydroponic Microgreens Environment 
 <div align = "center">
     
